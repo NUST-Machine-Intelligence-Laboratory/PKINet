@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This repository is the official implementation of "Poly Kernel Inception Network for Remote Sensing Detection".
+This repository is the official implementation of CVPR2024 Paper "[Poly Kernel Inception Network for Remote Sensing Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Cai_Poly_Kernel_Inception_Network_for_Remote_Sensing_Detection_CVPR_2024_paper.pdf)".
 
 
 ## Results and models
@@ -71,10 +71,12 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Citation
 ```
-@inproceedings{cai2024pkinet,
-  title={Poly Kernel Inception Network for Remote Sensing Detection},
-  author={Cai, Xinhao and Lai, Qiuxia and Wang, Yuwei and Wang, Wenguan and Sun, Zeren and Yao, Yazhou},
-  booktitle={CVPR},
-  year={2024}
+@InProceedings{Cai_2024_Poly,
+    author    = {Cai, Xinhao and Lai, Qiuxia and Wang, Yuwei and Wang, Wenguan and Sun, Zeren and Yao, Yazhou},
+    title     = {Poly Kernel Inception Network for Remote Sensing Detection},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {27706-27716}
 }
 ```
